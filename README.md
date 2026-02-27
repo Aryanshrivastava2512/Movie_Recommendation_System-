@@ -139,4 +139,4 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
- If you like this project, consider giving it a star on GitHub!# Movie_Recommendation_System-
+ If you like this project, consider giving it a star on GitHub!
